@@ -1,0 +1,4 @@
+In this model I have taken the data and performed data pre-processing using the pandas.
+After that i applied the the supervised machine learning models
+check the accuracy of each model and then modified the input data
+at last, using tkinter build the gui which predicts the placement of the student
